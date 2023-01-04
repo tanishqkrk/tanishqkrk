@@ -3,7 +3,7 @@
 <h3 align="center">My name is Tanishq Kaushal, a front-end developer 👨‍💻 with 6+ months of experience 🚀 <h3>
 
 * 🌍  I'm based in New Delhi, India
-* 🖥️  See my portfolio at [tanishqkrk.portfolio](http://tanishqkrk.github.io/tanishqkrk-portfolio/)
+* 🖥️  See my portfolio at [tanishqkrk.portfolio](https://tanishqkrk.netlify.app/)
 * ✉️  You can contact me at [tanishqkrk@gmail.com](mailto:tanishqkrk@gmail.com)
 * 🤝  I'm open to collaborating on any front end web based application
 
