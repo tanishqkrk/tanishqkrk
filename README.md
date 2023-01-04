@@ -5,7 +5,6 @@
 * 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [tanishqkrk.portfolio](http://tanishqkrk.github.io/tanishqkrk-portfolio/)
 * ✉️  You can contact me at [tanishqkrk@gmail.com](mailto:tanishqkrk@gmail.com)
-* 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on any front end web based application
 
 ### Skills
