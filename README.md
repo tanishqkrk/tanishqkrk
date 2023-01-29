@@ -1,6 +1,6 @@
 <h1 align="center"><👋 Hey there!/></h1>
 
-<h3 align="center">My name is Tanishq Kaushal, a front-end developer 👨‍💻 with 6+ months of experience 🚀 <h3>
+<h3 align="center">My name is Tanishq Kaushal, a front-end developer 👨‍💻 with 12+ months of experience 🚀 <h3>
 
 * 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [tanishqkrk.portfolio](https://tanishqkrk.netlify.app/)
