@@ -1,3 +1,6 @@
+<p align="center">
+<a href="https://github.com/tanishqkrk"> <img  src="https://github.com/tanishqkrk/tanishqkrk/blob/main/tanishqkrk-pixel.png?raw=true"  height="auto" width="200" style="border-radius:50%"/></a>
+</p>
 <h1 align="center"><👋 Hey there!/></h1>
 
 <h3 align="center">My name is Tanishq Kaushal, a front-end developer 👨‍💻 with 12+ months of experience 🚀 <h3>
