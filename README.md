@@ -8,7 +8,7 @@
 * 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [tanishqkrk.portfolio](https://tanishqkrk.netlify.app/)
 * ✉️  You can contact me at [tanishqkrk@gmail.com](mailto:tanishqkrk@gmail.com)
-* 🤝  I'm open to collaborating on any front end web based application
+* 🧑🏻‍💻 Frontend engineer at [Asymmetri.in](https://asymmetri.in/)
 
 ### Skills
 
@@ -39,3 +39,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tanishqkrk&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
