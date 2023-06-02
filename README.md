@@ -6,7 +6,8 @@
 <h3 align="center">My name is Tanishq Kaushal, a front-end developer 👨‍💻 with 12+ months of experience 🚀 <h3>
 
 * 🌍  I'm based in New Delhi, India
-* 🖥️  See my portfolio at [tanishqkrk.portfolio](https://tanishqkrk.netlify.app/)
+* ⚙️  Fullstack engineer inclined towards frontend.
+* 🖥️  See my portfolio at [https://tanishqkrk.netlify.app/](https://tanishqkrk.netlify.app/)
 * ✉️  You can contact me at [tanishqkrk@gmail.com](mailto:tanishqkrk@gmail.com)
 * 🧑🏻‍💻 Frontend engineer at [Asymmetri.in](https://asymmetri.in/)
 
