@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"><👋 Hey there!/></h1>
 
-<h3 align="center">My name is Tanishq Kaushal, a front-end developer 👨‍💻 with 12+ months of experience 🚀 <h3>
+<h3 align="center">My name is Tanishq Kaushal, a software engineer 👨‍💻 <h3>
 
 * 🌍  I'm based in New Delhi, India
 * ⚙️  Fullstack engineer inclined towards frontend.
