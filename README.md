@@ -9,7 +9,7 @@
 * ⚙️  Fullstack engineer inclined towards frontend.
 * 🖥️  See my portfolio at [https://tanishqkrk.netlify.app/](https://tanishqkrk.netlify.app/)
 * ✉️  You can contact me at [tanishqkrk@gmail.com](mailto:tanishqkrk@gmail.com)
-* 🧑🏻‍💻 Frontend engineer at [Asymmetri.in](https://asymmetri.in/)
+* 🧑🏻‍💻 Software engineer at [Asymmetri.in](https://asymmetri.in/)
 
 ### Skills
 
